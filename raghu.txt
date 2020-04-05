@@ -20,6 +20,7 @@ h2 {text-align:left;}
 
 <h1>Raghavendra raju<br>
 1977</h1>
+
 <img src="D:\website\Raghu.jpg" width="300" height"350">
 <h1>who is raghavendra raju</h1>
 <a href="#hobbies-"> Hobbies </a><br>
@@ -28,6 +29,7 @@ h2 {text-align:left;}
 
 <p>He is professionally a marketer. He has been very succesful in his carrier<br>
 and he was a part of IIHS(Indian Institute for Human Settlements).</p>
+
 <h2>Early life</h2>
 <img src="D:\website\raghu-child.jpg" width="200" height="200">
 <p>Raghavendra raju was born in bangalore in 5th october 1977 in a middle class family of three sisters he was the 3rd child.<br> He had a strict father and a very sweet mother,his parents were very disciplined and also there chidren were also vety disciplined.he loved<br> his mother rukmini who supported her children in their life.His father Krishnamaraju was a<br> buisenenss man who would teach his children moral values.He and his elder sister sudha were<br> very cometitve  and compared to their siblings then he started as a web developer and <br>stuggled a lot in that as he didn't have a computer and had to write down the code and then<br> go to a cyber centre and type the code and create a web for companies.<br>
